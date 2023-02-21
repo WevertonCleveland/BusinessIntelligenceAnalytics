@@ -12,6 +12,8 @@ Visando mudar esse cenário e se tornar uma empresa data driven, fomos contratad
 
 # Entendimento dos Dados
 
-Os dados foram disponibilizados em diversos formatos, entre eles, aquivos Excel, CSV e JSON. 
+Os dados disponibilizados pela Master Eletronics se referem as vendas realizadas pela empresa nos anos de 2017, 2018 e início de 2019. Os arquivos foram extraídos de diversas fontes e por isso, estão em diferentes formatos como CSV, Excel e JSON. 
 
+Durante a fase de limpeza e transformação dos dados, várias tarefas foram aplicadas utilizando o Power Query em conjunto com as linguagens DAX e M. Além dessa etapa ser fundamental para tratar possíveis inconsistências nos dados, ela também nos permitiu criar uma modelagem eficiênte através do modelo Star Schema. 
 
+![](Modelagem/ModeloStarSchema.png)
