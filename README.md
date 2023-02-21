@@ -4,4 +4,4 @@ Esse é um projeto de Business Intelligence.
 
 Os conjuntos de dados utilizados estão disponíveis no repositório "Bases".
 
-[![forthebadge made-with-powerbi](https://forthebadge.com/generator/?plabel=made+with&slabel=power+bi&sbg=%23E6FF00&stext=%23000000)
+[![forthebadge made-with-powerbi](Layout/Badge)](https://powerbi.microsoft.com/pt-br/landing/free-account/?&ef_id=CjwKCAiA9NGfBhBvEiwAq5vSyzUzqOknPcAxY26hZ9efZDIzvtRc_mTrDrlOBRhsRxDnSl96Z8pZLRoCzZIQAvD_BwE:G:s&OCID=AIDcmmk4cy2ahx_SEM_CjwKCAiA9NGfBhBvEiwAq5vSyzUzqOknPcAxY26hZ9efZDIzvtRc_mTrDrlOBRhsRxDnSl96Z8pZLRoCzZIQAvD_BwE:G:s&gclid=CjwKCAiA9NGfBhBvEiwAq5vSyzUzqOknPcAxY26hZ9efZDIzvtRc_mTrDrlOBRhsRxDnSl96Z8pZLRoCzZIQAvD_BwE)
