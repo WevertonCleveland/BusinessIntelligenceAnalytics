@@ -14,13 +14,13 @@ Visando mudar esse cenário e se tornar uma empresa data driven, fomos contratad
 
 Os dados disponibilizados pela Master Eletronics são referentes ao anos de 2017, 2018 e início de 2019. Os arquivos foram extraídos de diversas fontes e por isso estão em diferentes formatos como CSV, Excel e JSON. 
 
-• Vendas: tabela com informações históricas das vendas entre 01/01/2017 a 16/03/2019. <br>
-• Meta 2017: contém as metas de vendas a serem alcançadas para cada continente e categoria de produto no ano de 2017. <br>
-• Meta 2018 e 2019: contém as metas de vendas a serem alcançadas para cada continente e categoria de produto nos anos de 2018 e 2019. <br>
-• Clientes: tabela com informações cadastrais dos clientes. <br>
-• Localizacao: tabela com informações sobre as localidades das vendas (cidades, países e continentes). <br>
-• Produtos: tabela com informações sobre as marcas e produtos. <br>
-• Subcategoria: informações complementares dos produtos vendidos pela empresa. <br>
+- ** Vendas: tabela com informações históricas das vendas entre 01/01/2017 a 16/03/2019. <br>
+- ** Meta 2017: metas de vendas do ano de 2017 para cada continente e categoria de produto. <br>
+- ** Meta 2018 e 2019: metas de vendas do ano de 2018 e 2019 para cada continente e categoria de produto. <br>
+- ** Clientes: tabela com informações cadastrais dos clientes. <br>
+- ** Localizacao: tabela com informações sobre as localidades das vendas (cidades, países e continentes). <br>
+- ** Produtos: tabela com informações sobre as marcas e produtos. <br>
+- ** Subcategoria: informações complementares dos produtos vendidos pela empresa. <br>
 
 # Estratégia da Solução
 
