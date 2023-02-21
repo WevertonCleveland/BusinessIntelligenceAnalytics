@@ -10,3 +10,8 @@ A Master Eletronics é uma empresa americana que comercializa produtos eletrôni
 
 Visando mudar esse cenário e se tornar uma empresa data driven, fomos contratados para desenvolver um dashboard que retrate de forma descritiva o desempenho das vendas nos últimos anos. O dashboard deverá conter informações referentes as marcas e produtos mais vendidos, assim como uma análise temporal que demonstre de forma visual o comparativo anual de vendas. 
 
+# Entendimento dos Dados
+
+Os dados foram disponibilizados em diversos formatos, entre eles, aquivos Excel, CSV e JSON. 
+
+
