@@ -4,4 +4,4 @@ Esse é um projeto de Business Intelligence.
 
 Os conjuntos de dados utilizados estão disponíveis no repositório "Bases".
 
-![](Layout/Badge.png)
+[![forthebadge made-with-PowerBI](Layout/Badge.png)](https://powerbi.microsoft.com/pt-br/)
