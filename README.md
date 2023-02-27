@@ -73,9 +73,6 @@ O desenvolvimento do dashboard constitui na criação de quatro principais visõ
 
 ![](Imagens/Visao4.png)
 
-<br>
-<br>
-
 # Conclusões Finais
 
 Nosso principal objetivo nesse projeto foi disponibilizar ao cliente uma análise descritiva da performance de vendas de sua empresa. Para esse fim, escolhemos o Power BI como nossa principal ferramenta de trabalho. Utilizando os recursos do próprio Power BI, realizamos toda a etapa de limpeza e transformação, além da modelagem dos dados. 
