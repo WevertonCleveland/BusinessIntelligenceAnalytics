@@ -42,7 +42,7 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 
 Durante a limpeza e transformação dos dados, várias tarefas foram aplicadas utilizando o Power Query em conjunto com as linguagens DAX e M. Além dessa etapa ser fundamental para tratar possíveis inconsistências nos dados, ela também nos permitiu criar uma modelagem eficiênte através do modelo Star Schema. 
 
-![](Imagens/Modelagem.png)
+![](Modelagem/Modelagem.png)
 
 # Desenvolvimento do Dashboard
 
