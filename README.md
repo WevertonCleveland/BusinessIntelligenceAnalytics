@@ -48,28 +48,28 @@ Durante a limpeza e transformação dos dados, várias tarefas foram aplicadas u
 
 O desenvolvimento do dashboard constitui na criação de quatro principais visões: 
 
-**Visão 1: Análise de Vendas:** visão que possibilita analisar diferentes métricas por marca do produto, localização e ao longo dos meses. Essas métricas incluem o total vendido, lucro obtido, margem percentual, entre outras.
+**Análise de Vendas:** visão que possibilita analisar diferentes métricas por marca do produto, localização e ao longo dos meses. Essas métricas incluem o total vendido, lucro obtido, margem percentual, entre outras.
 
 ![](Imagens/Visao1.png)
 
 <br>
 <br>
 
-**Visão 2: Análise de Lucro:** visão mais detalhada do lucro obtido pela empresa. Nessa visão, temos uma análise mensal e acumulada do lucro da empresa ao longo dos meses. Além disso, uma tabela complementa a análise comparando a variação anual das categorias ou localizações. 
+**Análise de Lucro:** visão mais detalhada do lucro obtido pela empresa. Nessa visão, temos uma análise mensal e acumulada do lucro da empresa ao longo dos meses. Além disso, uma tabela complementa a análise comparando a variação anual das categorias ou localizações. 
 
 ![](Imagens/Visao2.png)
 
 <br>
 <br>
 
-**Visão 3: Taxa de Crescimento:** visão que classifica o crescimento percentual de vendas de um produto ou localização de acordo com três classes: baixo, médio e alto.
+**Taxa de Crescimento:** visão que classifica o crescimento percentual de vendas de um produto ou localização de acordo com três classes: baixo, médio e alto.
 
 ![](Imagens/Visao3.png)
 
 <br>
 <br>
 
-**Visão 4: Notas Fiscais:** visão com todas as informações referentes as notas fiscais emitidas pela empresa. 
+**Notas Fiscais:** visão com todas as informações referentes as notas fiscais emitidas pela empresa. 
 
 ![](Imagens/Visao4.png)
 
