@@ -4,6 +4,8 @@ Esse é um projeto de Business Intelligence.
 
 Os conjuntos de dados utilizados estão disponíveis no repositório "Bases".
 
+Para visualizar e interagir com o dashboard completo acesse [este link](https://rafaelgfelippe.github.io/portfolio-details.html). 
+
 # Entendimento do Negócio
 
 A Master Eletronics é uma empresa americana que comercializa produtos eletrônicos de forma online para todo o mundo. Apesar de sua rápida expansão, atualmente a empresa não conta com uma equipe especializada em análise de dados. 
