@@ -43,3 +43,16 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 Durante a limpeza e transformação dos dados, várias tarefas foram aplicadas utilizando o Power Query em conjunto com as linguagens DAX e M. Além dessa etapa ser fundamental para tratar possíveis inconsistências nos dados, ela também nos permitiu criar uma modelagem eficiênte através do modelo Star Schema. 
 
 ![](Modelagem/ModelagemStarSchema.png)
+
+# Desenvolvimento do Dashboard
+
+O desenvolvimento do dashboard constitui na criação de quatro principais visões: 
+
+- **Análise de Vendas:** visão que possibilita analisar diferentes métricas por marca do produto, localização e ao longo dos meses. Essas métricas incluem o total vendido, lucro obtido, margem percentual, entre outras.
+
+- **Análise de Lucro:** visão mais detalhada do lucro obtido pela empresa. Nessa visão, temos uma análise mensal e acumulada do lucro da empresa ao longo dos meses. Além disso, uma tabela complementa a análise comparando a variação anual das categorias ou localizações. 
+
+- **Taxa de Crescimento:** visão que classifica o crescimento percentual de vendas de um produto ou localização de acordo com três classes: baixo, médio e alto.
+
+- **Notas Fiscais:** visão com todas as informações referentes as notas fiscais emitidas pela empresa. 
+
