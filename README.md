@@ -1,4 +1,4 @@
-![](Layout/FundoGithub.png)
+![](Imagens/FundoGithub.png)
 
 Esse é um projeto de Business Intelligence.
 
