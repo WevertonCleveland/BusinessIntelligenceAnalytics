@@ -52,15 +52,23 @@ O desenvolvimento do dashboard constitui na criação de quatro principais visõ
 
 ![](Imagens/Visao1.png)
 
+<br>
+
 **Análise de Lucro:** visão mais detalhada do lucro obtido pela empresa. Nessa visão, temos uma análise mensal e acumulada do lucro da empresa ao longo dos meses. Além disso, uma tabela complementa a análise comparando a variação anual das categorias ou localizações. 
 
 ![](Imagens/Visao2.png)
+
+<br>
 
 **Taxa de Crescimento:** visão que classifica o crescimento percentual de vendas de um produto ou localização de acordo com três classes: baixo, médio e alto.
 
 ![](Imagens/Visao3.png)
 
+<br>
+
 **Notas Fiscais:** visão com todas as informações referentes as notas fiscais emitidas pela empresa. 
 
 ![](Imagens/Visao4.png)
+
+<br>
 
